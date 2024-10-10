@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Abraão+Polcaro,+Analista+de+Sistemas.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00000&size=35&center=true&vCenter=true&width=1000&lines=Abraão+Polcaro,+Analista+de+Sistemas.)](https://git.io/typing-svg)
 
 
 <div align="center">  
@@ -60,13 +60,5 @@
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
-
-
-
-<p align="center"> 
-
-  ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
- </p>
-
 
 ###
