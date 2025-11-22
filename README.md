@@ -53,20 +53,23 @@
 ![PHP](https://img.shields.io/badge/-PHP-0D1117?style=for-the-badge&logo=php&labelColor=0D1117&textColor=FFFFFF)
 ![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117)&nbsp;
 
-
-<p align="left">
-  <img src="https://img.shields.io/badge/-HTML5-0D1117?style=for-the-badge&logo=html5" />
-  <img src="https://img.shields.io/badge/-CSS3-0D1117?style=for-the-badge&logo=css3" />
-  <img src="https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript" />
-  <img src="https://img.shields.io/badge/-Node.js-0D1117?style=for-the-badge&logo=node.js" />
-  <img src="https://img.shields.io/badge/-React-0D1117?style=for-the-badge&logo=react" />
-  <img src="https://img.shields.io/badge/-React%20Native-0D1117?style=for-the-badge&logo=react" /><br>
-  <img src="https://img.shields.io/badge/-Docker-0D1117?style=for-the-badge&logo=docker" />
-  <img src="https://img.shields.io/badge/-Linux-0D1117?style=for-the-badge&logo=linux" />
-  <img src="https://img.shields.io/badge/-PHP-0D1117?style=for-the-badge&logo=php" />
-  <img src="https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git" />
-  <img src="https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github" />
+<p align="left" style="display: flex; flex-wrap: wrap; gap: 6px;">
+  <img src="https://img.shields.io/badge/-HTML5-0D1117?style=for-the-badge&logo=html5" style="height:28px; border-radius:8px;" />
+  <img src="https://img.shields.io/badge/-CSS3-0D1117?style=for-the-badge&logo=css3" style="height:28px; border-radius:8px;" />
+  <img src="https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript" style="height:28px; border-radius:8px;" />
+  <img src="https://img.shields.io/badge/-TypeScript-0D1117?style=for-the-badge&logo=typescript" style="height:28px; border-radius:8px;" />
+  <img src="https://img.shields.io/badge/-Node.js-0D1117?style=for-the-badge&logo=node.js" style="height:28px; border-radius:8px;" />
+  <img src="https://img.shields.io/badge/-React-0D1117?style=for-the-badge&logo=react" style="height:28px; border-radius:8px;" />
+  <img src="https://img.shields.io/badge/-React%20Native-0D1117?style=for-the-badge&logo=react" style="height:28px; border-radius:8px;" />
+  <img src="https://img.shields.io/badge/-PHP-0D1117?style=for-the-badge&logo=php" style="height:28px; border-radius:8px;" />
+  <img src="https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python" style="height:28px; border-radius:8px;" />
+  <img src="https://img.shields.io/badge/-PostgreSQL-0D1117?style=for-the-badge&logo=postgresql" style="height:28px; border-radius:8px;" />
+  <img src="https://img.shields.io/badge/-Docker-0D1117?style=for-the-badge&logo=docker" style="height:28px; border-radius:8px;" />
+  <img src="https://img.shields.io/badge/-Linux-0D1117?style=for-the-badge&logo=linux" style="height:28px; border-radius:8px;" />
+  <img src="https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git" style="height:28px; border-radius:8px;" />
+  <img src="https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github" style="height:28px; border-radius:8px;" />
 </p>
+
 
 
 <div align="center">
