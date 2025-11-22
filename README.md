@@ -53,6 +53,22 @@
 ![PHP](https://img.shields.io/badge/-PHP-0D1117?style=for-the-badge&logo=php&labelColor=0D1117&textColor=FFFFFF)
 ![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117)&nbsp;
 
+
+<p align="left">
+  <img src="https://img.shields.io/badge/-HTML5-0D1117?style=for-the-badge&logo=html5" />
+  <img src="https://img.shields.io/badge/-CSS3-0D1117?style=for-the-badge&logo=css3" />
+  <img src="https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript" />
+  <img src="https://img.shields.io/badge/-Node.js-0D1117?style=for-the-badge&logo=node.js" />
+  <img src="https://img.shields.io/badge/-React-0D1117?style=for-the-badge&logo=react" />
+  <img src="https://img.shields.io/badge/-React%20Native-0D1117?style=for-the-badge&logo=react" />
+  <img src="https://img.shields.io/badge/-Docker-0D1117?style=for-the-badge&logo=docker" />
+  <img src="https://img.shields.io/badge/-Linux-0D1117?style=for-the-badge&logo=linux" />
+  <img src="https://img.shields.io/badge/-PHP-0D1117?style=for-the-badge&logo=php" />
+  <img src="https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git" />
+  <img src="https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github" />
+</p>
+
+
 <div align="center">
 <br><p align="centre"><b>Visitantes em minha conta.</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{Polcaro1989&}/count.svg" /></p> 
