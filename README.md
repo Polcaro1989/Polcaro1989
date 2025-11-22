@@ -28,7 +28,7 @@
   <img src="https://img.shields.io/badge/-TypeScript-0D1117?style=for-the-badge&logo=typescript" height="28" />
   <img src="https://img.shields.io/badge/-Node.js-0D1117?style=for-the-badge&logo=node.js" height="28" />
   <img src="https://img.shields.io/badge/-React-0D1117?style=for-the-badge&logo=react" height="28" />
-  <img src="https://img.shields.io/badge/-React%20Native-0D1117?style=for-the-badge&logo=react" height="28" />
+  <img src="https://img.shields.io/badge/-React%20Native-0D1117?style=for-the-badge&logo=react" height="28" /><br>
   <img src="https://img.shields.io/badge/-PHP-0D1117?style=for-the-badge&logo=php" height="28" />
   <img src="https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python" height="28" />
   <img src="https://img.shields.io/badge/-PostgreSQL-0D1117?style=for-the-badge&logo=postgresql" height="28" />
