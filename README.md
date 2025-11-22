@@ -60,7 +60,7 @@
   <img src="https://img.shields.io/badge/-TypeScript-0D1117?style=for-the-badge&logo=typescript" style="height:28px; border-radius:8px;" />
   <img src="https://img.shields.io/badge/-Node.js-0D1117?style=for-the-badge&logo=node.js" style="height:28px; border-radius:8px;" />
   <img src="https://img.shields.io/badge/-React-0D1117?style=for-the-badge&logo=react" style="height:28px; border-radius:8px;" />
-  <img src="https://img.shields.io/badge/-React%20Native-0D1117?style=for-the-badge&logo=react" style="height:28px; border-radius:8px;" />
+  <img src="https://img.shields.io/badge/-React%20Native-0D1117?style=for-the-badge&logo=react" style="height:28px; border-radius:8px;" /><br>
   <img src="https://img.shields.io/badge/-PHP-0D1117?style=for-the-badge&logo=php" style="height:28px; border-radius:8px;" />
   <img src="https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python" style="height:28px; border-radius:8px;" />
   <img src="https://img.shields.io/badge/-PostgreSQL-0D1117?style=for-the-badge&logo=postgresql" style="height:28px; border-radius:8px;" />
