@@ -1,7 +1,7 @@
 <img src="https://aquamarine-pheasant-256510.hostingersite.com/wp-content/uploads/2025/11/imagembanner. png" alt="Banner Abraão Polcaro" width="100%">
 
 <h1 align="left">👋 Olá, sou Abraão Polcaro</h1>
-
+<p align="left">Back-end Engineer focado em sistemas críticos que não podem falhar | Node.js, Microsserviços, Dados em escala</p>
 <p align="left"> 
   Nos últimos 6 anos, trabalhei na evolução de sistemas web em produção em contextos educacionais, institucionais e de saúde, lidando com crescimento de usuários, dados sensíveis e riscos operacionais em produção. 
 
