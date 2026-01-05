@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
+<img width="100%" src="https://aquamarine-pheasant-256510.hostingersite.com/wp-content/uploads/2025/11/imagembanner.png"/>
 
 <h1 align="center">
   👋 Abraão Polcaro
