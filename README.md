@@ -81,22 +81,23 @@
 
 ---
 
-## 📊 GitHub Stats
+## 🐍 GitHub Contribution Snake
 
-<!-- Card principal de stats -->
 <p align="center">
-  <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Polcaro1989&theme=github_dark"
-    alt="GitHub Stats - Abraão Polcaro"
-  />
-</p>
-
-<!-- Card estilo 'Pac-Man' de streak (mais próximo do efeito que você quer) -->
-<p align="center">
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com?user=Polcaro1989&theme=tokyonight&date_format=j%20M%5B%20Y%5D"
-    alt="GitHub Streak - Abraão Polcaro"
-  />
+  <picture>
+    <source 
+      media="(prefers-color-scheme: dark)" 
+      srcset="https://raw.githubusercontent.com/Polcaro1989/Polcaro1989/output/github-contribution-grid-snake-dark.svg"
+    >
+    <source 
+      media="(prefers-color-scheme: light)" 
+      srcset="https://raw.githubusercontent.com/Polcaro1989/Polcaro1989/output/github-contribution-grid-snake.svg"
+    >
+    <img 
+      alt="github contribution grid snake animation" 
+      src="https://raw.githubusercontent.com/Polcaro1989/Polcaro1989/output/github-contribution-grid-snake.svg"
+    >
+  </picture>
 </p>
 
 ---
