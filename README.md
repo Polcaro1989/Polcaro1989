@@ -1,7 +1,7 @@
 <!-- BANNER -->
 <p align="center">
   <img 
-    src="https://aquamarine-pheasant-256510.hostingersite.com/wp-content/uploads/2024/11/imagembanner.png"
+    src="https://aquamarine-pheasant-256510.hostingersite.com/wp-content/uploads/2025/11/imagembanner.png"
     alt="Banner Abraão Polcaro"
     width="100%"
   />
