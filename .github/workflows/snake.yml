@@ -5,6 +5,9 @@ on:
     - cron: "0 0 * * *"        # roda todo dia à meia-noite (UTC)
   workflow_dispatch:           # permite rodar manualmente
 
+permissions:
+  contents: write              # dá permissão de escrita no repo para o GITHUB_TOKEN
+
 jobs:
   generate:
     runs-on: ubuntu-latest
@@ -21,33 +24,9 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg
 
-      - name: Setup Git config
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-
-      - name: Push Snake SVG to output branch
-        run: |
-          # Clona o próprio repositório no branch output (ou cria se não existir)
-          git fetch origin
-          if git show-ref --verify --quiet refs/heads/output; then
-            git checkout output
-          else
-            git checkout --orphan output
-            git reset --hard
-          fi
-
-          # Copia os arquivos gerados da pasta dist
-          cp dist/github-contribution-grid-snake.svg github-contribution-grid-snake.svg
-          cp dist/github-contribution-grid-snake-dark.svg github-contribution-grid-snake-dark.svg
-
-          git add github-contribution-grid-snake.svg github-contribution-grid-snake-dark.svg
-
-          if git diff --cached --quiet; then
-            echo "No changes to commit"
-          else
-            git commit -m "chore: update snake animation"
-            git push origin output
-          fi
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Deploy to output branch
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_branch: output
+          publish_dir: dist
