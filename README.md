@@ -18,7 +18,7 @@
   <!-- Portfólio -->
   <a href="https://abraaopolcaro.site/html/" target="_blank" title="Portfólio">
     <img 
-      src="https://img.shields.io/badge/Portfólio-Online-1a73e8?style=for-the-badge&logo=google-chrome&logoColor=white" 
+      src="https://img.shields.io/badge/Portfólio-1a73e8?style=for-the-badge&logo=google-chrome&logoColor=white" 
       alt="Portfólio"
     />
   </a>
