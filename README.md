@@ -9,13 +9,16 @@
 </h3>
 
 <p align="center">
-  <a href="https://wa.me/5521995018935" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-00bfbf?style=for-the-badge&logo=whatsapp&logoColor=white" />
+
+  <!-- WhatsApp -->
+  <a href="https://wa.me/5521995018935" target="_blank" title="WhatsApp">
+    <img src="https://img.shields.io/badge/WhatsApp-Contato-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
-    <!-- Portfólio -->
+
+  <!-- Portfólio -->
   <a href="https://abraaopolcaro.site/html/" target="_blank" title="Portfólio">
     <img 
-      src="https://img.shields.io/badge/Portfólio-Website-1a73e8?style=for-the-badge&logo=google-chrome&logoColor=white" 
+      src="https://img.shields.io/badge/Portfólio-Online-1a73e8?style=for-the-badge&logo=google-chrome&logoColor=white" 
       alt="Portfólio"
     />
   </a>
@@ -23,11 +26,13 @@
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/abraao-polcaro" target="_blank" title="LinkedIn">
     <img 
-      src="https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" 
+      src="https://img.shields.io/badge/LinkedIn-Profissional-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" 
       alt="LinkedIn"
     />
   </a>
+
 </p>
+
 
 ---
 
