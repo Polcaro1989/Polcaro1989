@@ -47,13 +47,5 @@ Gosto de código limpo, arquitetura bem pensada e produtos que **resolvem proble
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img
-    width="48%"
-    src="https://github-readme-stats.vercel.app/api?username=Polcaro1989&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117&cache_seconds=86400"
-  />
-  <img
-    width="40%"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Polcaro1989&layout=compact&hide_border=true&title_color=00bfbf&text_color=c9d1d9&bg_color=0d1117&cache_seconds=86400"
-  />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Polcaro1989&show_icons=true&count_private=true&hide_border=true&theme=dark&cache_seconds=86400)
+
